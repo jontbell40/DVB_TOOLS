@@ -1,5 +1,5 @@
 # DVB_TOOLS
-Some simple tools for stripping analysis DVB transport streams fro the command line.
+Some simple tools for stripping analysis DVB transport streams from the command line.
 
 ## Pid filter ##
    Can be built by gcc -o pid_filter ./pid_filter (Will add Makefile once more than one tool)
